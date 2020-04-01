@@ -30,3 +30,11 @@ Credits:
 	Other:
 		jQuery (jquery.com)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+
+How to update on Github: medium article: https://medium.com/tunapanda-institute/8-steps-to-publish-your-portfolio-on-github-9d6e6e3d2e84
+
+Only have to clone once. Didn't have to put in credentials to update anymore (only once).
+
+cd = change directory
+ls = list files in directory
+pwd = print working directory (where am I)
